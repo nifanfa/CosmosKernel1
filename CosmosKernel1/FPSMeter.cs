@@ -7,7 +7,7 @@ namespace CosmosKernel1
         public static int FPS = 0;
 
         public static int LastS = -1;
-        public static long Ticken = 0;
+        public static int Ticken = 0;
 
         public static void Update()
         {
